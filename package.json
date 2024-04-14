@@ -1,0 +1,18 @@
+{
+  
+  "name": "tailwind-example",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "devDependencies": {},
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
